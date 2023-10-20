@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+    <article>
+
+    {%- include header.html -%}
+
+    <section class="section">
+      <div class="container is-max-desktop">
+        <div class="columns">
+          <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
+            <div class="content">
+              {{ content }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container is-max-desktop">
+        <h2 class="title is-4">Signed by</h2>
+        <div class="content">
+          <ul>
+          {%- for signature in page.signatories -%}
+            <li>
+              {{ signature }}
+            </li>
+          {%- endfor -%}
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    </article>
+  </body>
+
+</html>
