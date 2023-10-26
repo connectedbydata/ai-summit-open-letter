@@ -1,8 +1,6 @@
 ---
 signatories:
-  - Adam
-  - Bob
-  - Carol
+  - Signatories will be published on Monday 30th October
 layout: default
 ---
-This is the content of the letter.
+Letter will be published on Monday 30th October
