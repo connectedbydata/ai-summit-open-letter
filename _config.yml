@@ -28,8 +28,6 @@ twitter_username: ConnectedByData
 github_username:  connectedbydata
 
 # Build settings
-theme: minima
-plugins:
 
 # Exclude from processing.
 # The following items will not be processed, by default.
