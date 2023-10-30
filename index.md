@@ -144,3 +144,4 @@ For the Summit itself and the work that has to follow, a wide range of expertise
 
 In this way we can work towards ensuring the future of AI is as safe and beneficial as possible for communities in the UK and across the world.
 
+30th October 2023
