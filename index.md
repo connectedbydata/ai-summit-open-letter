@@ -120,6 +120,8 @@ signatories:
   - Women’s Tech Hub
   - Royal Statistical Society's Data Science and AI section
   - Dr Frederick Harry Pitts, Senior Lecturer in Politics, University of Exeter
+  - Open Data Manchester
+  - Accountable Tech
 layout: default
 ---
 Dear Prime Minister,
