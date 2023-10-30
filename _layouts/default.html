@@ -1,18 +1,16 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html class="has-background-light" lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}
 
   <body>
-    <article>
-
     {%- include header.html -%}
 
-    <section class="section">
+    <section class="section" id="letter">
       <div class="container is-max-desktop">
         <div class="columns">
           <div class="column is-three-quarters-desktop is-three-quarters-fullhd">
-            <div class="content">
+            <div class="content is-size-5">
               {{ content }}
             </div>
           </div>
@@ -20,10 +18,10 @@
       </div>
     </section>
 
-    <section class="section">
+    <section class="section" id="signatures">
       <div class="container is-max-desktop">
         <h2 class="title is-4">Signed by</h2>
-        <div class="content">
+        <div class="content is-size-5">
           <ul>
           {%- for signature in page.signatories -%}
             <li>
@@ -35,7 +33,28 @@
       </div>
     </section>
 
-    </article>
+    <section class="section has-background-grey-lighter" id="background">
+      <div class="container is-max-desktop">
+        <h2 class="title is-4">Background</h2>
+        <div class="content">
+          <p>
+            The Open Letter on the UK's Global Summit on AI Safety has been convened by <a href="https://connectedbydata.org/">Connected by Data</a>, <a href="https://www.tuc.org.uk/">The Trades Union Congress</a> and <a href="https://www.openrightsgroup.org/">Open Rights Group</a> in response to the UK Government’s summit being held on the 1st and 2nd November 2023.
+          </p>
+          <p>
+            In recognition of the cross-cutting and global nature of AI policy, signatories include a diverse range of UK and international stakeholders, organisational and individual: representatives of tens of millions of organised workers, leading human rights organisations, experts and campaigners.
+          </p>
+          <p>
+            The letter can now be used by the media and shared publicly, and we encourage all signatories and supporters to do so. On social media, please use the hashtags #AISummitOpenLetter and #AISafetySummit.
+          </p>
+          <p>
+            For any enquiries about the letter please contact Adam at <a href="mailto:adam@connectedbydata.org">adam@connectedbydata.org</a>
+          </p>
+        </div>
+      </div>
+    </section>
+
+    {%- include footer.html -%}
+
   </body>
 
 </html>
