@@ -116,6 +116,10 @@ signatories:
   - Homo Digitalis
   - IPANDETEC
   - Safe Online Women Kenya
+  - Creative Commons
+  - Women’s Tech Hub
+  - Royal Statistical Society's Data Science and AI section
+  - Dr Frederick Harry Pitts, Senior Lecturer in Politics, University of Exeter
 layout: default
 ---
 Dear Prime Minister,
