@@ -122,6 +122,9 @@ signatories:
   - Dr Frederick Harry Pitts, Senior Lecturer in Politics, University of Exeter
   - Open Data Manchester
   - Accountable Tech
+  - Caution Your Blast Ltd
+  - UK Open Government Network
+  - Sylvie Delacroix, Professor in Law and Ethics, University of Birmingham
 layout: default
 ---
 Dear Prime Minister,
