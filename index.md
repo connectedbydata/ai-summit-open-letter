@@ -125,6 +125,7 @@ signatories:
   - Caution Your Blast Ltd
   - UK Open Government Network
   - Sylvie Delacroix, Professor in Law and Ethics, University of Birmingham
+  - Gary Marcus, CEO, Center for the Advancement of Trustworthy AI
 layout: default
 ---
 Dear Prime Minister,
