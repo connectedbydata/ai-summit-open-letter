@@ -126,6 +126,16 @@ signatories:
   - UK Open Government Network
   - Sylvie Delacroix, Professor in Law and Ethics, University of Birmingham
   - Gary Marcus, CEO, Center for the Advancement of Trustworthy AI
+  - Dr Denis Poussart, Emeritus Professor Université Laval, Quévec, Canada, Fellow of the Canadian Academy of Engineering
+  - Professor Simon Buckingham Shum, University of Technology Sydney, Director, Connected Intelligence Centre
+  - Gerd Leonhard, Futurist and Humanist, Keynote Speaker, Author, Film Maker
+  - Chris Marsden, Professor of Artificial Intelligence, Technology, and the Law at Monash University, Australia
+  - Dr Simon Mills, Centre Director and Associate Professor in New Media, De Montfort University 
+  - Ulises Cortés, Professor of AI at Universitat Politècnica de Catalunya.
+Coordinator of High-Performance AI at the Barcelona Supercomputing
+Center.
+  - Noriswadi Ismail, Founder & Executive Leader, Noris Ismail Consulting, Strategy & Policy Ltd.
+  - Dr Wayne Holmes, Associate Professor, AI and education University College London, Institute of Education
 layout: default
 ---
 Dear Prime Minister,
