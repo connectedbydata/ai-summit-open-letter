@@ -134,6 +134,9 @@ signatories:
   - Ulises Cortés, Professor of AI at Universitat Politècnica de Catalunya, Coordinator of High-Performance AI at the Barcelona Supercomputing Center.
   - Noriswadi Ismail, Founder & Executive Leader, Noris Ismail Consulting, Strategy & Policy Ltd.
   - Dr Wayne Holmes, Associate Professor, AI and education University College London, Institute of Education
+  - AIAAIC Repository
+  - Sherin Mathew, Founder & CEO, AI Tech UK
+  - Yonah Welker, Explorer, Board Member - EU Commission projects
 layout: default
 ---
 Dear Prime Minister,
