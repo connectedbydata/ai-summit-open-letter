@@ -137,6 +137,7 @@ signatories:
   - AIAAIC Repository
   - Sherin Mathew, Founder & CEO, AI Tech UK
   - Yonah Welker, Explorer, Board Member - EU Commission projects
+  - Professor Alan Winfield, Bristol Robotics Laboratory & Science Communication Unit
 layout: default
 ---
 Dear Prime Minister,
