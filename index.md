@@ -138,6 +138,10 @@ signatories:
   - Sherin Mathew, Founder & CEO, AI Tech UK
   - Yonah Welker, Explorer, Board Member - EU Commission projects
   - Professor Alan Winfield, Bristol Robotics Laboratory & Science Communication Unit
+  - Communication Workers Union
+  - Xin Zhou, Executive Chief Editor, The Yuan
+  - Prof. Dr. Ramon Lopez de Mantaras, Research Professor of the IIIA (Artificial Intelligence Research Institute) of the CSIC (Spanish National Research Council)
+  - Liam McGee, Chief Scientist, Kaiasm Ltd
 layout: default
 ---
 Dear Prime Minister,
